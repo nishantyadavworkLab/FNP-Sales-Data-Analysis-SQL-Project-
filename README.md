@@ -123,11 +123,11 @@ How to Run the Project:
 
 6. Example with ScrrenShots of some queries:
 
-![one](one/revenue.png)
+![one](one.png)
 
-![two](two/revenue.png)
+![two](two.png)
 
-![three](three/revenue.png)
+![three](three.png)
 
 Future Improvements:
 
