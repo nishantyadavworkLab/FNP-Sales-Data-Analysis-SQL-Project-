@@ -121,6 +121,14 @@ How to Run the Project:
 
 5. Execute queries to generate insights
 
+6. Example with ScrrenShots of some queries:
+
+![one](one/revenue.png)
+
+![two](two/revenue.png)
+
+![three](three/revenue.png)
+
 Future Improvements:
 
 * Build an interactive dashboard using Power BI or Tableau
